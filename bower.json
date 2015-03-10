@@ -1,0 +1,21 @@
+{
+  "name": "Merhaba Famo.us + Gulp + Bower Projesi",
+  "version": "0.0.0",
+  "authors": [
+    "oar <argunomer@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "colors": "https://github.com/mrmrs/colors.git",
+    "famous-polyfills": "https://github.com/Famous/polyfills.git",
+    "famous": "https://github.com/Famous/famous.git#master"
+  }
+}
